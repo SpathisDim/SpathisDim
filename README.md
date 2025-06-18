@@ -1,6 +1,7 @@
 ### Spathis Dimitris 👋
 
-- 🧑‍🎓 Electrical & Computer Engineering | UOWM
+- 🧑‍🎓 M.Sc. Electrical & Computer Engineering | UOWM
+        M.Sc. Software Engineering for Internet & Mobile Applications | UTH
 - 📌 Greece, Larissa
 - 🌱 I’m currently learning everything 😝
 - 👯 I’m looking to collaborate with other developers 
